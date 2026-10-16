@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# IDE (Eclipse / STS)
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs e internos
+*.log
+*.swp
+*~
+
+# Spring Boot
+.idea/
+*.iml
+.vscode/
